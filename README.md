@@ -1,5 +1,3 @@
-# Pandas Challenge
-
 ## PyCity Schools
 
 Created a Jupyter Notebook script to analyze district-wide standardized test results for students' reading and math as well as additional infromation on the schools they attend. Several snapshots of the aggregated data will show metrics based on multiple categories which are defined as district summary, school summary, highest and lowest performing schools, math and reading scores by grade, school spending, school size and school type. The passing score for math and reading was set to 70. 
